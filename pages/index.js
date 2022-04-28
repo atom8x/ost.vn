@@ -390,7 +390,7 @@ function Home() {
                   <div className="members__info__image">
                     <img
                       className="img-responsive"
-                      src="images/index-member-3.jpg"
+                      src="images/index-member-ntu.jpg"
                       alt=""
                     />
                   </div>
