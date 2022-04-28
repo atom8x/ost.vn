@@ -350,14 +350,14 @@ function Home() {
                   <div className="members__info__image">
                     <img
                       className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
+                      src="images/index-member-1.jpg"
                       alt=""
                     />
                   </div>
                   {/* /image */}
                   {/* text */}
                   <div className="members__info__text">
-                    <h3>NGUYỄN NGỌC TÚ</h3>
+                    <h3>VÕ THẾ NGỌC</h3>
                     <hr className="section__title__underline" />
                     <p>FOUNDER - DIRECTOR</p>
                   </div>
@@ -370,14 +370,14 @@ function Home() {
                   <div className="members__info__image">
                     <img
                       className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
+                      src="images/index-member-2.jpg"
                       alt=""
                     />
                   </div>
                   {/* /image */}
                   {/* text */}
                   <div className="members__info__text">
-                    <h3>NGUYỄN NGỌC TÚ</h3>
+                    <h3>HOÀNG CHIM PHƯỢNG</h3>
                     <hr className="section__title__underline" />
                     <p>CO-FOUNDER - DEPUTY DIRECTOR</p>
                   </div>
@@ -390,7 +390,7 @@ function Home() {
                   <div className="members__info__image">
                     <img
                       className="img-responsive"
-                      src="images/index-member-ntu.jpg"
+                      src="images/index-member-3.jpg"
                       alt=""
                     />
                   </div>
@@ -398,126 +398,6 @@ function Home() {
                   {/* text */}
                   <div className="members__info__text">
                     <h3>NGUYỄN NGỌC TÚ</h3>
-                    <hr className="section__title__underline" />
-                    <p>DEVELOPER</p>
-                  </div>
-                  {/* /text */}
-                </div>
-              </div>
-              <div className="members__info col-md-4">
-                <div className="members__info__content">
-                  {/* image */}
-                  <div className="members__info__image">
-                    <img
-                      className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
-                      alt=""
-                    />
-                  </div>
-                  {/* /image */}
-                  {/* text */}
-                  <div className="members__info__text">
-                    <h3>NGUYỄN NGỌC TÚ</h3>
-                    <hr className="section__title__underline" />
-                    <p>DEVELOPER</p>
-                  </div>
-                  {/* /text */}
-                </div>
-              </div>
-              <div className="members__info col-md-4">
-                <div className="members__info__content">
-                  {/* image */}
-                  <div className="members__info__image">
-                    <img
-                      className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
-                      alt=""
-                    />
-                  </div>
-                  {/* /image */}
-                  {/* text */}
-                  <div className="members__info__text">
-                    <h3>NGUYỄN NGỌC TÚ</h3>
-                    <hr className="section__title__underline" />
-                    <p>DEVELOPER</p>
-                  </div>
-                  {/* /text */}
-                </div>
-              </div>
-              <div className="members__info col-md-4">
-                <div className="members__info__content">
-                  {/* image */}
-                  <div className="members__info__image">
-                    <img
-                      className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
-                      alt=""
-                    />
-                  </div>
-                  {/* /image */}
-                  {/* text */}
-                  <div className="members__info__text">
-                    <h3>NGUYỄN NGỌC TÚ </h3>
-                    <hr className="section__title__underline" />
-                    <p>DEVELOPER</p>
-                  </div>
-                  {/* /text */}
-                </div>
-              </div>
-              <div className="members__info col-md-4">
-                <div className="members__info__content">
-                  {/* image */}
-                  <div className="members__info__image">
-                    <img
-                      className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
-                      alt=""
-                    />
-                  </div>
-                  {/* /image */}
-                  {/* text */}
-                  <div className="members__info__text">
-                    <h3>NGUYỄN NGỌC TÚ </h3>
-                    <hr className="section__title__underline" />
-                    <p>DEVELOPER</p>
-                  </div>
-                  {/* /text */}
-                </div>
-              </div>
-              <div className="members__info col-md-4">
-                <div className="members__info__content">
-                  {/* image */}
-                  <div className="members__info__image">
-                    <img
-                      className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
-                      alt=""
-                    />
-                  </div>
-                  {/* /image */}
-                  {/* text */}
-                  <div className="members__info__text">
-                    <h3> NGUYỄN NGỌC TÚ </h3>
-                    <hr className="section__title__underline" />
-                    <p>DEVELOPER</p>
-                  </div>
-                  {/* /text */}
-                </div>
-              </div>
-              <div className="members__info col-md-4">
-                <div className="members__info__content">
-                  {/* image */}
-                  <div className="members__info__image">
-                    <img
-                      className="img-responsive"
-                      src="images/index-member-kiennt.jpg"
-                      alt=""
-                    />
-                  </div>
-                  {/* /image */}
-                  {/* text */}
-                  <div className="members__info__text">
-                    <h3>NGUYỄN NGỌC TÚ </h3>
                     <hr className="section__title__underline" />
                     <p>DEVELOPER</p>
                   </div>
