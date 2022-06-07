@@ -350,14 +350,14 @@ function Home() {
                   <div className="members__info__image">
                     <img
                       className="img-responsive"
-                      src="images/index-member-1.jpg"
+                      src="images/index-member-kiennt.jpg"
                       alt=""
                     />
                   </div>
                   {/* /image */}
                   {/* text */}
                   <div className="members__info__text">
-                    <h3>VÕ THẾ NGỌC</h3>
+                    <h3>NGUYỄN ĐÌNH VĂN</h3>
                     <hr className="section__title__underline" />
                     <p>FOUNDER - DIRECTOR</p>
                   </div>
@@ -425,7 +425,7 @@ function Home() {
                     <i className="fas fa-map-marker-alt" /> C7 Building, Khuất Duy Tiến, Thanh Xuân, Hà Nội
                   </p>
                   <p>
-                    <i className="fas fa-phone" /> Phone: (84) 984 715 689
+                    <i className="fas fa-phone" /> Phone: (84) 904 920 923
                   </p>
                   <p>
                     <i className="fas fa-envelope" /> Email:{" "}
